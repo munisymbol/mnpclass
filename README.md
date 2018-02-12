@@ -1,2 +1,2 @@
 # mnpclass
-my is first repo we have used
+my first repo we have used
