@@ -1,10 +1,2 @@
-nsert this is first repo
 this is first repo
-<<<<<<< HEAD
 this is jyothi changes hi Yamini
-
-
-=======
-this is jyothi changes
-This is third change
->>>>>>> f3428d7982461918acadb092bd4622aa0a634b31
